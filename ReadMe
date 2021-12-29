@@ -1,0 +1,2 @@
+The data should be housed in a folder named Data, with two subfolders NORMAL and PNEUMONIA. This should work on other datasets. 
+Although best if using large datasets, didn't use techniques for low amounts of data.
